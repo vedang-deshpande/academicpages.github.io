@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vedang Deshpande"
+title                    : "Vedang M. Deshpande"
 title_separator          : "-"
 name                     : &name "Vedang M. Deshpande"
 description              : &description "Personal Webpage"
@@ -86,7 +86,7 @@ author:
   location         : "College Station, TX, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=jdoVOGwAAAAJ&hl"
+  googlescholar    : "href=https://scholar.google.com/citations?user=jdoVOGwAAAAJ&hl"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
