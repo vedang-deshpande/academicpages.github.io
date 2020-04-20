@@ -2,7 +2,7 @@
 layout: archive
 classes: wide
 author_profile: # true
-title: Publications
+title: Resume
 permalink: /Resume/
 ---
 ### Awards and Scholarships
