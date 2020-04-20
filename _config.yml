@@ -120,13 +120,12 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - _pages2
+  - _pages
   - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
-  - _pages
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
