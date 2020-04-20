@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Publications"
-    url: /Publications/
+    url: https://vedang-deshpande.github.io/Publications/
 
   - title: "Resume"
-    url: /Resume/    
+    url: https://vedang-deshpande.github.io/Resume/    
     
   - title: "Contact"
-    url: /Contact/    
+    url: https://vedang-deshpande.github.io/Contact/    
 
 #   - title: "Teaching"
 #     url: /teaching/    
