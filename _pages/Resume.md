@@ -1,3 +1,10 @@
+---
+layout: archive
+classes: wide
+author_profile: # true
+title: Publications
+permalink: /Resume/
+---
 ### Awards and Scholarships
 1. AERO Graduate Excellence Fellowship Award, FY 2020  
 1. AERO Travel Grant, Fall 2019  
