@@ -86,7 +86,7 @@ author:
   location         : "College Station, TX, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "href=https://scholar.google.com/citations?user=jdoVOGwAAAAJ&hl"
+  googlescholar    : "https://scholar.google.com/citations?user=jdoVOGwAAAAJ&hl"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
