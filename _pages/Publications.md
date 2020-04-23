@@ -8,7 +8,7 @@ permalink: /Publications/
 ### Peer Reviewed Papers
 _Under review/Preprints_
 1. V. Deshpande, S. Kim, R. Bhattacharya, Robust Kalman Filtering Framework for Systems with Parametric Uncertainty  
-1. V. Deshpande, R. Bhattacharya, Sparse Sensing for $H_2/H_{\infty}$ Optimal Observer Design with Bounded Errors ([Preprint](https://arxiv.org/abs/2003.10887)){:target="_blank"}  
+1. V. Deshpande, R. Bhattacharya, Sparse Sensing for $H_2/H_{\infty}$ Optimal Observer Design with Bounded Errors ([Preprint](https://arxiv.org/abs/2003.10887){:target="_blank"})  
 1. V. Deshpande, R. Bhattacharya, D. Donzis, A unified framework to generate optimized compact finite difference schemes ([Preprint](https://arxiv.org/abs/1912.07382))  
 1. V. Deshpande, R. Bhattacharya, On Improved Statistical Accuracy of Low-Order Polynomial Chaos Approximations ([Preprint](https://arxiv.org/abs/1909.03516))  
 1. S. Kim, V. Deshpande, R. Bhattacharya, Kalman Filtering with Probabilistic Uncertainty in System Parameters ([Preprint](https://arxiv.org/abs/2003.10926))  
