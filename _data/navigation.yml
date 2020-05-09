@@ -1,25 +1,31 @@
 # main links links
 main:
+  - title: "Home"
+    url: https://vedang-deshpande.github.io/
+
   - title: "Publications"
     url: https://vedang-deshpande.github.io/Publications/
 
+  - title: "Talks"
+    url: https://vedang-deshpande.github.io/Talks/
+
   - title: "Resume"
-    url: https://vedang-deshpande.github.io/Resume/    
-    
+    url: https://vedang-deshpande.github.io/Resume/
+
   - title: "Contact"
-    url: https://vedang-deshpande.github.io/Contact/    
+    url: https://vedang-deshpande.github.io/Contact/
 
 #   - title: "Teaching"
-#     url: /teaching/    
-    
+#     url: /teaching/
+
 #   - title: "Portfolio"
 #     url: /portfolio/
-        
+
 #   - title: "Blog Posts"
 #     url: /year-archive/
-    
+
 #   - title: "CV"
 #     url: /cv/
-    
+
 #   - title: "Guide"
 #     url: /markdown/
