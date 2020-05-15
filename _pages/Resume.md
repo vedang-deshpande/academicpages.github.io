@@ -5,17 +5,22 @@ author_profile: # true
 title: Resume
 permalink: /Resume/
 ---
+Detailed C.V. available on request.
+
 ### Awards and Scholarships
 1. AERO Graduate Excellence Fellowship Award, FY 2020  
 1. AERO Travel Grant, Fall 2019  
 1. Honeywell Star Award, 2017  
 1. Graduate (GATE) Scholarship by MHRD, Govt. of India, 2014-2016  
 
-### Certifications
-1. Fellow Certificate, [Academy for Future Faculty](https://cte.tamu.edu/Graduate-Student-Support/AFF){:target="_blank"}, April 2019  
+### Leadership and Service
+1. Reviewer, IEEE Control Systems Letters, 2020 - Present
+1. Reviewer, ASME Journal of Dynamic Systems, Measurement and Control, 2019 - Present
+1. Member, Graduate Engineering Student Advisory Council, College of Engineering, TAMU, 2019-2020  
+1. Officer, Aerospace Engineering Graduate Students Association (AEGSA), TAMU, 2019-2020  
 
-### Affiliations
-1. Officer, Aerospace Engineering Graduate Students Association (AEGSA), Summer 2019 - Present  
+### Affiliations/Certifications
+1. Fellow Certificate, [Academy for Future Faculty](https://cte.tamu.edu/Graduate-Student-Support/AFF){:target="_blank"}, April 2019  
 1. Student Member, American Institute of Aeronautics and Astronautics, May 2018 - Present  
 
 ### Events
