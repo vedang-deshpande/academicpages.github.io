@@ -8,11 +8,11 @@ permalink: /Publications/
 ### Peer Reviewed Papers
 _Under review/Preprints_
 1. V. Deshpande, S. Kim, R. Bhattacharya, Robust Kalman Filtering Framework for Systems with Parametric Uncertainty  
-1. V. Deshpande, R. Bhattacharya, Sparse Sensing for $H_2/H_{\infty}$ Optimal Observer Design with Bounded Errors ([Preprint](https://arxiv.org/abs/2003.10887){:target="_blank"})  
 1. V. Deshpande, R. Bhattacharya, D. Donzis, A unified framework to generate optimized compact finite difference schemes ([Preprint](https://arxiv.org/abs/1912.07382){:target="_blank"})  
 1. V. Deshpande, R. Bhattacharya, On Improved Statistical Accuracy of Low-Order Polynomial Chaos Approximations ([Preprint](https://arxiv.org/abs/1909.03516){:target="_blank"})  
 
 _Accepted/Published_
+1. V. Deshpande, R. Bhattacharya, Sparse Sensing for $H_2/H_{\infty}$ Optimal Observer Design with Bounded Errors (To appear. [Preprint](https://arxiv.org/abs/2003.10887){:target="_blank"})  
 1. S. Kim, V. Deshpande, R. Bhattacharya, Robust Kalman Filtering with Probabilistic Uncertainty in System Parameters, IEEE Control Systems Letters, 2020 (To appear. [Preprint](https://arxiv.org/abs/2003.10926){:target="_blank"})  
 1. V. Deshpande, R. Bhattacharya, Data-driven Solution of Stochastic Differential Equations Using Maximum Entropy Basis Functions, IFAC World Congress, 2020 (To appear. [Preprint](https://arxiv.org/abs/2004.01736){:target="_blank"})  
 1. V. Deshpande, R. Bhattacharya, Surrogate Modeling of Dynamics From Sparse Data Using Maximum Entropy Basis Functions, American Control Conference, 2020 (To appear. [Preprint](https://arxiv.org/abs/1911.03016){:target="_blank"})  
