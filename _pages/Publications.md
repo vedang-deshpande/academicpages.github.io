@@ -5,6 +5,7 @@ author_profile: # true
 title: Publications
 permalink: /Publications/
 ---
+<sup>*If you are unable access a paper, please [contact](https://vedang.page/Contact/){:target="_blank"} me for the PDF file.</sup>
 ### Peer Reviewed Papers
 _Under review/Preprints_
 1. V. Deshpande, S. Kim, R. Bhattacharya, Robust Kalman Filtering Framework for Systems with Parametric Uncertainty  
