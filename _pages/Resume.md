@@ -25,7 +25,9 @@ Detailed C.V. available on request.
 1. Student Member, American Institute of Aeronautics and Astronautics, May 2018 - Present  
 
 ### Events
-1. Presenter, [AIAA SciTech Forum](https://arc.aiaa.org/doi/book/10.2514/MSCITECH20){:target="_blank"}, Orlando, FL, January 2020
+1. Presenter, [IFAC World Congress](https://www.ifac2020.org/){:target="_blank"}, Berlin, Germany, July 2020
+1. Presenter, [American Control Conference](http://acc2020.a2c2.org/){:target="_blank"}, Denver, CO, USA, July 2020
+1. Presenter, [AIAA SciTech Forum](https://arc.aiaa.org/doi/book/10.2514/MSCITECH20){:target="_blank"}, Orlando, FL, USA, January 2020
 1. Attendee, [Texas Systems Day](http://scr.tamu.edu/?page_id=718){:target="_blank"}, Texas A&M University, College Station, TX, April 2019
 1. Judge (Oral Presentations Session: Education & Diversity), [Student Research Week](https://srw.tamu.edu/){:target="_blank"}, Texas A&M University, College Station, TX, March 2019
 1. Attendee, [NSF C-UAS](https://c-uas.org){:target="_blank"} Texas A&M University Planning Grant Meeting, Texas A&M University, College Station, TX, February 2019
