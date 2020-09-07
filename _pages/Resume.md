@@ -8,8 +8,9 @@ permalink: /Resume/
 Detailed C.V. available on request.
 
 ### Awards and Scholarships
+1. Student Travel Award, IEEE Conference on Decision and Control, 2020
 1. Student Travel Award, American Control Conference, 2020
-1. AERO Graduate Excellence Fellowship Award, Spring & Summer 2020  (It is a competitive merit/need based fellowship.)
+1. AERO Graduate Excellence Fellowship Award, Spring-Summer-Fall 2020  (It is a competitive merit/need based fellowship.)
 1. AERO Travel Grant, Fall 2019 (For AIAA SciTech 2020)
 1. Honeywell Star Award, 2017  (For team work and innovation)
 1. Graduate (GATE) Scholarship by MHRD, Govt. of India, 2014-2016  (For Master's thesis)
