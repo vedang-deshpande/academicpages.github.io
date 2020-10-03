@@ -5,16 +5,17 @@ author_profile: # true
 title: Publications
 permalink: /Publications/
 ---
-<p>
-<sup> If you are unable access a paper, please [contact](https://vedang.page/Contact/){:target="_blank"} me for the PDF file. <br> 
-*Also selected for presentation at the CDC 2020. </sup>
-</p>
 
-### Peer Reviewed Papers
+<sup> If you are unable access a paper, please [contact](https://vedang.page/Contact/){:target="_blank"} me for the PDF file. </sup>
+
+<sup><sup>&#x23;</sup>Also selected for presentation at the CDC 2020. <br> <sup>&#x2020;</sup>Invited paper. </sup>
+
+
+<!-- ### Peer Reviewed Papers -->
 <!-- _Accepted/Published_ -->
-1. *V. Deshpande, R. Bhattacharya, Sparse Sensing and Optimal Precision: An Integrated Framework for $H_2/H_{\infty}$ Optimal Observer Design, IEEE Control Systems Letters, 2021. ([Publisher Link](https://doi.org/10.1109/LCSYS.2020.3003771){:target="_blank"}, [Preprint](https://arxiv.org/pdf/2003.10887v3.pdf){:target="_blank"})
-1. S. Kim, V. Deshpande, R. Bhattacharya, Robust Kalman Filtering with Probabilistic Uncertainty in System Parameters, IEEE Control Systems Letters, 2021. ([Publisher Link](https://doi.org/10.1109/LCSYS.2020.3001490){:target="_blank"}, [Preprint](https://arxiv.org/abs/2003.10926){:target="_blank"})
-1. V. Deshpande, R. Bhattacharya, Data-driven Solution of Stochastic Differential Equations Using Maximum Entropy Basis Functions, IFAC World Congress, 2020 (To appear. [Preprint](https://arxiv.org/abs/2004.01736){:target="_blank"})  
+1. <sup>&#x23;</sup>V. Deshpande, R. Bhattacharya, Sparse Sensing and Optimal Precision: An Integrated Framework for $H_2/H_{\infty}$ Optimal Observer Design, IEEE Control Systems Letters, 2021. ([Publisher Link](https://doi.org/10.1109/LCSYS.2020.3003771){:target="_blank"}, [Preprint](https://arxiv.org/pdf/2003.10887v3.pdf){:target="_blank"})
+1. <sup>&#x23;</sup>S. Kim, V. Deshpande, R. Bhattacharya, Robust Kalman Filtering with Probabilistic Uncertainty in System Parameters, IEEE Control Systems Letters, 2021. ([Publisher Link](https://doi.org/10.1109/LCSYS.2020.3001490){:target="_blank"}, [Preprint](https://arxiv.org/abs/2003.10926){:target="_blank"})
+1. <sup>&#x2020;</sup>V. Deshpande, R. Bhattacharya, Data-driven Solution of Stochastic Differential Equations Using Maximum Entropy Basis Functions, IFAC World Congress, 2020 (To appear. [Preprint](https://arxiv.org/abs/2004.01736){:target="_blank"})  
 1. V. Deshpande, R. Bhattacharya, Surrogate Modeling of Dynamics From Sparse Data Using Maximum Entropy Basis Functions, American Control Conference, 2020 ([Publisher Link](https://doi.org/10.23919/ACC45564.2020.9147384){:target="_blank"}, [Preprint](https://arxiv.org/abs/1911.03016){:target="_blank"})  
 1. S. Kim, V. Deshpande, R. Bhattacharya, $H_{2}$ Optimized PID Control of Quad-Copter Platform with Wind Disturbance, International Conference on Unmanned Aircraft Systems, 2020 (To appear. [Preprint](https://arxiv.org/abs/2003.13801){:target="_blank"})  
 1. V. Deshpande, N. Das, V. Tadiparthi, R. Bhattacharya, On Neural Network Training from Noisy Data using a Novel Filtering Framework, AIAA SciTech Forum, 2020 ([Publisher Link](https://arc.aiaa.org/doi/10.2514/6.2020-1869){:target="_blank"}, [Correction](https://arc.aiaa.org/doi/10.2514/6.2020-1869.c1){:target="_blank"})  
