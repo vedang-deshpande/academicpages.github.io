@@ -18,13 +18,17 @@ Detailed C.V. available on request.
 ### Leadership and Service
 1. Reviewer, IEEE Control Systems Letters
 1. Reviewer, ASME Journal of Dynamic Systems, Measurement and Control
-1. Member, Graduate Engineering Student Advisory Council, College of Engineering, TAMU, 2019-2020  
-1. Officer, Aerospace Engineering Graduate Students Association (AEGSA), TAMU, 2019-2020  
+1. Reviewer, American Control Conference
+1. Department Delegate, Graduate Engineering Student Advisory Council, College of Engineering, TAMU, 2019-2021  
+1. Elected Officer, Aerospace Engineering Graduate Students Association (AEGSA), TAMU, 2019-2021  
 
-### Affiliations/Certifications
-1. Fellow Certificate, [Academy for Future Faculty](https://cte.tamu.edu/Graduate-Student-Support/AFF){:target="_blank"}, April 2019  
+### Affiliations
 1. Student Member, American Institute of Aeronautics and Astronautics, 2018 - Present  
 1. Student Member, Institute of Electrical and Electronics Engineers (IEEE), 2020 - Present  
+1. IEEE Control Systems Society, 2020 - Present  
+
+### Certifications
+1. Fellow Certificate, [Academy for Future Faculty](https://cte.tamu.edu/Graduate-Student-Support/AFF){:target="_blank"}, April 2019  
 
 ### Events
 1. Presenter, [IFAC World Congress](https://www.ifac2020.org/){:target="_blank"}, Berlin, Germany, July 2020
