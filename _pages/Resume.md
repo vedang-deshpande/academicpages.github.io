@@ -8,6 +8,7 @@ permalink: /Resume/
 Detailed C.V. available on request.
 
 ### Awards and Scholarships
+1. AERO Ph.D. Excellence Fellowship Award, Spring-Summer 2021  (It is a competitive merit/need based fellowship.)
 1. Student Travel Award, IEEE Conference on Decision and Control, 2020
 1. Student Travel Award, American Control Conference, 2020
 1. AERO Graduate Excellence Fellowship Award, Spring-Summer-Fall 2020  (It is a competitive merit/need based fellowship.)
@@ -16,6 +17,7 @@ Detailed C.V. available on request.
 1. Graduate (GATE) Scholarship by MHRD, Govt. of India, 2014-2016  (For Master's thesis)
 
 ### Leadership and Service
+1. Reviewer, IEEE Transaction on Automatic Control
 1. Reviewer, IEEE Control Systems Letters
 1. Reviewer, ASME Journal of Dynamic Systems, Measurement and Control
 1. Reviewer, American Control Conference
@@ -31,6 +33,7 @@ Detailed C.V. available on request.
 1. Fellow Certificate, [Academy for Future Faculty](https://cte.tamu.edu/Graduate-Student-Support/AFF){:target="_blank"}, April 2019  
 
 ### Events
+1. Presenter, [IEEE Conference on Decision and Control](https://cdc2020.ieeecss.org/){:target="_blank"}, Jeju Island, Republic of Korea, December 2020
 1. Presenter, [IFAC World Congress](https://www.ifac2020.org/){:target="_blank"}, Berlin, Germany, July 2020
 1. Presenter, [American Control Conference](http://acc2020.a2c2.org/){:target="_blank"}, Denver, CO, USA, July 2020
 1. Presenter, [AIAA SciTech Forum](https://arc.aiaa.org/doi/book/10.2514/MSCITECH20){:target="_blank"}, Orlando, FL, USA, January 2020
