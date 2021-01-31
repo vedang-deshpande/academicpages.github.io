@@ -6,6 +6,7 @@ title: Talks
 permalink: /Talks/
 ---
 ### Talks and Presentations
+1. Sparse Sensing and Optimal Precision: An Integrated Framework for $H_2/H_{\infty}$ Optimal Observer Design, IEEE Conference on Decision and Control, Jeju Island, Republic of Korea, December 2020 (Remote presentation)
 1. Data-driven Solution of Stochastic Differential Equations Using Maximum Entropy Basis Functions, IFAC World Congress, Berlin, Germany, July 2020 (Remote presentation)
 1. Surrogate Modeling of Dynamics From Sparse Data Using Maximum Entropy Basis Functions, American Control Conference, Denver, CO, USA, July 2020 (Remote presentation)
 1. On Neural Network Training from Noisy Data using a Novel Filtering Framework, AIAA SciTech Forum, Orlando, FL, USA, January 2020
