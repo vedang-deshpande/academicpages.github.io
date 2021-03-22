@@ -14,7 +14,7 @@ permalink: /Publications/
 <!-- ### Peer Reviewed Papers -->
 <!-- _Accepted/Published_ -->
 <!-- _Under review/Preprints_ -->
-1. V. Deshpande, R. Bhattacharya, K. Subbarao, Sensor Placement with Optimal Precision for Temperature Estimation of Battery Systems, 2021.
+1. V. Deshpande, R. Bhattacharya, K. Subbarao, Sensor Placement with Optimal Precision for Temperature Estimation of Battery Systems, 2021.  
 1. V. Deshpande, R. Bhattacharya, Sensor Selection and Optimal Precision in $H_2/H_{\infty}$ Estimation Framework: Theory and Algorithms, 2021. [arXiv](https://arxiv.org/pdf/2103.00750.pdf){:target="_blank"}  
 1. V. Deshpande, R. Bhattacharya, D. Donzis, A unified framework to generate optimized compact finite difference schemes, Journal of Computational Physics, 2021. [DOI](https://doi.org/10.1016/j.jcp.2021.110157){:target="_blank"} [arXiv](https://arxiv.org/pdf/1912.07382.pdf){:target="_blank"}  
 1. V. Deshpande, R. Bhattacharya, Sparse Sensing and Optimal Precision: Robust $H_{\infty}$ Optimal Observer Design with Model Uncertainty, American Control Conference, 2021. [arXiv](https://arxiv.org/pdf/2009.01930.pdf){:target="_blank"}  
